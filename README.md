@@ -24,3 +24,4 @@ https://www.facebook.com/modernghost/
 
 https://www.noisetrade.com/modernghost
 
+A note for the fine bassist ears. I intentionally replicated the recorded bass pattern found on Blink 182's Enema of the State by using a Fender Precision Bass for some songs and an Ernie Ball Music Man Bass for other songs. My hope is that someone that had noticed this on Enema of the State has a mini mind explosion to find out that someone has done the same thing on purpose. Then we could intellectually connect and become best friends.
