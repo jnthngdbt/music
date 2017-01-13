@@ -15,3 +15,12 @@ http://www.beeple-crap.com/
 http://www.beeple-crap.com/media/everyday10/january2016/big/01-22-16.jpg
 
 https://creativecommons.org/licenses/by/2.0/
+
+A note about song 'Jump'. It actually started as a jam on the introduction riff of the song 'Cliff Jumper' from the band Modern Ghost and it ended up being a song. So, in the end, 'Jump' is basically a cover of 'Cliff Jumper' intro. 
+
+http://www.modernghost.com/
+
+https://www.facebook.com/modernghost/
+
+https://www.noisetrade.com/modernghost
+
