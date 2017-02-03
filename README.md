@@ -4,7 +4,7 @@ Open-source music albums. To actually listen to the songs, see the Bandcamp page
 
 https://jonathangodbout.bandcamp.com/
 
-# JG.1
+## JG.1
 
 Released in january 2017. An attempt at describing the genre would be 'short simple melodic instrumental punk rock' songs. The recording session files (.band) are for iOS GarageBand. 
 
