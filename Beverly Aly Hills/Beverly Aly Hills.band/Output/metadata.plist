@@ -23,7 +23,7 @@
 	<key>com_apple_garageband_metadata_numberOfArrangeDrummerTracks</key>
 	<integer>0</integer>
 	<key>com_apple_garageband_metadata_numberOfArrangeTracks</key>
-	<integer>12</integer>
+	<integer>13</integer>
 	<key>com_apple_garageband_metadata_numberOfAudioUnitTracks</key>
 	<integer>0</integer>
 	<key>com_apple_garageband_metadata_numberOfGridColumns</key>
@@ -41,9 +41,9 @@
 	<key>com_apple_garageband_metadata_numberOfSIGridRows</key>
 	<integer>-1</integer>
 	<key>com_apple_garageband_metadata_numberOfSITracks</key>
-	<integer>4</integer>
+	<integer>5</integer>
 	<key>com_apple_garageband_metadata_numberOfVisibleArrangeTracks</key>
-	<integer>12</integer>
+	<integer>13</integer>
 	<key>com_apple_garageband_metadata_parentalAdvisory</key>
 	<string>None</string>
 	<key>com_apple_garageband_metadata_songDuration</key>
@@ -69,7 +69,7 @@
 	<key>com_apple_mobilegarageband_metadata_songVersionNumber</key>
 	<integer>8</integer>
 	<key>kDfMetaDataKey_numberOfRootRegions</key>
-	<integer>12</integer>
+	<integer>13</integer>
 	<key>plistVersion</key>
 	<integer>1050</integer>
 </dict>
